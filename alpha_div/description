@@ -1,1 +1,5 @@
-Calculation of alpha diversity in python and display of data in R
+# The code herein describes the creation of figure the boxplot in Fig. 3A
+
+Alpha diversity (OTU or in this case feature count) is assessed in python (although this simple type of measuring alpha diversity could also have been calcuated in excel) in alpha_diversity.ipynb.  
+
+That data is then merged with metadata in R (resulting in all_alpha_diversity.csv) which is used for ANOVA and to make figures in TO_USE_richness.ipynb.
