@@ -1,2 +1,0 @@
-This folder contains code to generate the feature accumulation cuves (FAC) in vegan.  
-There is also code for the scatterplots in this figure that use the slope at the penultimate point of the FAC as an indicator of saturation.
